@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Projects | Prairie Helix</title>
+    <meta
+      name="description"
+      content="Example bioinformatics projects: workflows, RNA-seq analysis, reproducible reporting, and engineering support."
+    />
+    <meta name="theme-color" content="#0b1020" />
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="index.html" aria-label="Prairie Helix home">
+          <strong>Prairie Helix</strong>
+          <span>Prairie Helix Consulting</span>
+        </a>
+
+        <nav class="nav" aria-label="Primary navigation">
+          <a href="index.html">Home</a>
+          <a href="projects.html" aria-current="page">Projects</a>
+          <a href="index.html#services">Services</a>
+          <a href="index.html#about">About</a>
+          <a href="index.html#links">Links</a>
+        </nav>
+
+        <a
+          class="cta"
+          href="mailto:YOUR_EMAIL_HERE?subject=Prairie%20Helix%20Consulting%20Inquiry"
+          >Contact</a
+        >
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="hero" aria-label="Projects intro">
+        <div>
+          <h1>Example projects</h1>
+          <p>
+            A few representative engagements. Details are generalized to respect
+            confidentiality, but the patterns and deliverables are accurate.
+          </p>
+        </div>
+        <div class="hero-actions">
+          <a
+            class="cta"
+            href="mailto:YOUR_EMAIL_HERE?subject=Prairie%20Helix%20Project%20Inquiry"
+            >Ask about your project</a
+          >
+          <div class="pill">
+            <strong>Deliverables I like to ship:</strong>
+            <div>Repo + docs • Report • Rerunnable pipeline</div>
+          </div>
+        </div>
+      </section>
+
+      <section aria-label="Project examples">
+        <h2>Selected examples</h2>
+        <p class="section-lede">
+          These are templates you can edit into real case studies as you build a
+          track record.
+        </p>
+
+        <div class="grid">
+          <article class="card">
+            <h3>Reproducible RNA-seq differential expression</h3>
+            <p>Turn raw counts into a handoff-ready report and codebase.</p>
+            <ul>
+              <li><strong>Approach:</strong> QC, normalization, DE, figures</li>
+              <li><strong>Tools:</strong> R, Bioconductor, Quarto</li>
+              <li><strong>Deliverable:</strong> report + versioned analysis repo</li>
+            </ul>
+          </article>
+
+          <article class="card">
+            <h3>Snakemake pipeline for standardized processing</h3>
+            <p>Automate a multi-step workflow and make it easy to rerun.</p>
+            <ul>
+              <li><strong>Approach:</strong> modular rules + configs</li>
+              <li><strong>Tools:</strong> Snakemake, conda/containers, CI</li>
+              <li><strong>Deliverable:</strong> pipeline + documentation + tests</li>
+            </ul>
+          </article>
+
+          <article class="card">
+            <h3>HPC optimization &amp; reliability improvements</h3>
+            <p>Reduce runtime and improve success rate for large cohorts.</p>
+            <ul>
+              <li><strong>Approach:</strong> profiling, resource tuning</li>
+              <li><strong>Tools:</strong> scheduler configs, logging, retries</li>
+              <li><strong>Deliverable:</strong> faster runs + runbook</li>
+            </ul>
+          </article>
+
+          <article class="card">
+            <h3>Variant calling workflow integration</h3>
+            <p>Implement a practical workflow aligned with study constraints.</p>
+            <ul>
+              <li><strong>Approach:</strong> calling, filtering, annotation</li>
+              <li><strong>Tools:</strong> workflow engine + annotation tools</li>
+              <li><strong>Deliverable:</strong> pipeline + summary outputs</li>
+            </ul>
+          </article>
+
+          <article class="card">
+            <h3>Single-cell analysis pipeline + reporting</h3>
+            <p>From raw matrices to interpretable plots and notes.</p>
+            <ul>
+              <li><strong>Approach:</strong> QC, integration, clustering</li>
+              <li><strong>Tools:</strong> Seurat/Scanpy (as needed)</li>
+              <li><strong>Deliverable:</strong> report + reproducible notebooks</li>
+            </ul>
+          </article>
+
+          <article class="card">
+            <h3>Code review and hardening for handoff</h3>
+            <p>Make a research codebase easier to maintain and extend.</p>
+            <ul>
+              <li><strong>Approach:</strong> refactor, tests, CI</li>
+              <li><strong>Tools:</strong> GitHub Actions, linting, docs</li>
+              <li><strong>Deliverable:</strong> PRs + recommendations</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section aria-label="Getting started">
+        <h2>What I typically need to start</h2>
+        <p class="section-lede">
+          A quick kickoff saves time. If you don’t have everything, that’s fine
+          — we can iterate.
+        </p>
+        <div class="grid">
+          <article class="card" style="grid-column: span 6">
+            <h3>Inputs</h3>
+            <ul>
+              <li>Data location (FASTQs / BAMs / matrices / VCFs)</li>
+              <li>Metadata + sample sheet</li>
+              <li>Reference build + annotations (if relevant)</li>
+              <li>Any existing pipeline or preferred tools</li>
+            </ul>
+          </article>
+          <article class="card" style="grid-column: span 6">
+            <h3>Constraints</h3>
+            <ul>
+              <li>Environment (HPC, cloud, local) + access constraints</li>
+              <li>Timelines and “definition of done”</li>
+              <li>Confidentiality and sharing expectations</li>
+              <li>Preferred deliverable format (report, repo, both)</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="container footer-inner">
+        <div class="kicker">
+          <span class="dot" aria-hidden="true"></span>
+          <span>Prairie Helix Consulting</span>
+        </div>
+        <div>
+          <span>© <span id="year">2026</span> Prairie Helix</span>
+          <span class="sr-only">.</span>
+        </div>
+      </div>
+    </footer>
+
+    <script>
+      document.getElementById("year").textContent = String(new Date().getFullYear());
+    </script>
+  </body>
+</html>
