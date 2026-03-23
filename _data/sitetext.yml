@@ -11,29 +11,29 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: A collaborative partner for
+    text: Turning biological data into insights
+    button: Learn More
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "If you don't see the service you need, feel free to reach out and ask!"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Multi-omics Analysis"
+        desc: "Genome Assembly/Annotation, Transcriptomics, Variant Analysis"
+        icon: fas fa-dna #find more at https://fontawesome.com/icons
+      - title: "Pipeline Development"
+        desc: "Python and Nextflow"
+        icon: fas fa-arrow-right
+      - title: "Research Consulting and Strategy"
+        desc: "Experimental design, data management, and more"
+        icon: fas fa-question
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Projects"
+    text: "A sampling of previously completed projects."
     section: portfolio
     closebutton: "Close Project"
 

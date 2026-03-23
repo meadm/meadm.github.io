@@ -1,18 +1,19 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title:  KOCheck
+subtitle: A Nextflow pipeline for analyzing genomic knockouts
 image: assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/KOCheck_report.png
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: KOCheck
+  subtitle: A Nextflow pipeline for analyzing genomic knockouts
+  thumbnail: assets/img/portfolio/KOCheck_report.png
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+A scalable [Nextflow](https://www.nextflow.io/) pipeline for validating genetic knockouts. KOCheck analyzes short-read (Illumina) sequencing reads to confirm gene deletions, detect correct resistance marker insertion, and identify ectopic integrations across the genome. Designed primarily for microbiological and fungal genetic workflows. To learn more and download, see the [GitHub repo](https://github.com/meadm/KOCheck). 
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: February 2026
+- Client: Academic Labs and Internal Development
+- Category: Pipeline Development
 
