@@ -1,7 +1,6 @@
 ---
 title:  KOCheck
 subtitle: A Nextflow pipeline for analyzing genomic knockouts
-image: assets/img/portfolio/01-full.jpg
 image: assets/img/portfolio/KOCheck_report.png
 alt: Shirts on a hanger
 
@@ -15,5 +14,5 @@ A scalable [Nextflow](https://www.nextflow.io/) pipeline for validating genetic 
 {:.list-inline}
 - Date: February 2026
 - Client: Academic Labs and Internal Development
-- Category: Pipeline Development
+- Category: Tool Development
 

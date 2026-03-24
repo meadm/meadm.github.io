@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/02-full.jpg
+title: GenomeCheck
+subtitle: A Streamlit App for conducting genome QC without the command line
+image: assets/img/portfolio/ANIHeatmap.png
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  title: GenomeCheck
+  subtitle: A Streamlit App for conducting genome QC without the command line
+  thumbnail: assets/img/portfolio/ANIHeatmap.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+An easy-to-use [Streamlit](https://streamlit.io/) application for basic genome quality control (QC) and similarity analysis. The app will compute common assembly metrics (N50, L90, GC%), optionally runs [BUSCO](https://busco.ezlab.org/) for genome completeness, and can estimate pairwise Average Nucleotide Identity (ANI) with [fastANI](https://www.nature.com/articles/s41467-018-07641-9) before showing a clustered heatmap and tree.
 
 {:.list-inline}
 - Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Client: Academic Labs and Internal Development
+- Category: Tool Development
 

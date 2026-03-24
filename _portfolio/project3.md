@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/03-full.jpg
+title: Standardized Data Formats
+subtitle: An effort to standardize genomic data files and streamline analysis workflows
+image: assets/img/portfolio/datastandardization.png
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  title: Standardized Data Formats
+  subtitle: An effort to standardize genomic data files and streamline analysis workflows
+  thumbnail: assets/img/portfolio/datastandardization.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Identified inefficiencies caused by inconsistent data formats across workflows and teams. Developed a standardized genomic data format through iterative stakeholder feedback. Partnered with engineers to implement a validation tool that enforced the standard and improved data quality. The outcome of this work was streamlined analyses and reduced downstream errors.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+- Date: June 2024
+- Client: Industry (Biotech)
+- Category: Data Infrastructure 
 
