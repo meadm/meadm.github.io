@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/04-full.jpg
+title: Genomics Analyses for IP Insights
+subtitle: Used various sequencing and analysis approaches to identify drivers of high-performing strain phenotypes
+image: assets/img/portfolio/Bioreactor_cropped3.jpeg
 alt: 
 
 caption:
-  title: Lines
-  subtitle: Branding
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  title: Genomics Analyses for IP Insights
+  subtitle: Used various sequencing and analysis approaches to identify drivers of high-performing strain phenotypes
+  thumbnail: assets/img/portfolio/Bioreactor_cropped3.jpeg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Investigated the genetic basis of an unexpectedly high-performing strain by applying comparative genomics and variant analysis. Leveraged long-read sequencing data to identify structural variation, repeats, and candidate mutations associated with the observed phenotype. Integrated these findings with experimental context to generate hypotheses for downstream validation. This work supported prioritization of traits and informed intellectual property development.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+- Date: March 2022 - June 2024
+- Client: Industry (Biotech)
+- Category: Genomic Analysis
 

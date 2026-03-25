@@ -1,13 +1,13 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/05-full.jpg
+title: RNA-seq for Machine Learning Pipelines
+subtitle: Developed and applied diverse transcriptomic workflows for downstream multi-omic analyses
+image: assets/img/portfolio/PCA.png
 alt: 
 
 caption:
-  title: Southwest
-  subtitle: Website Design
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  title: RNA-seq for Machine Learning Pipelines
+  subtitle: Developed and applied diverse transcriptomic workflows for downstream multi-omic analyses
+  thumbnail: assets/img/portfolio/PCA.png
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
