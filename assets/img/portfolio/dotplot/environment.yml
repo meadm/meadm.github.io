@@ -1,0 +1,11 @@
+name: dotplot-env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - matplotlib
+  - jupyterlab
+  - ipykernel
