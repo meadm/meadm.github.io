@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         desc: "Python and Nextflow"
         icon: fas fa-arrow-right
       - title: "Research Consulting and Strategy"
-        desc: "Experimental design, data management, and more"
+        desc: "Experimental design, data management, market strategy, and more"
         icon: fas fa-question
 
   portfolio:
@@ -39,39 +39,42 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "Building expertise and delivering results across academia and industry"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+      - title: "B.S. - Iowa State University"
+        year: "2005-2009"
+        desc: "Undergraduate degree in Biochemistry, Biophysics, and Molecular Biology. Conducted research in natural product biosynthesis and molecular biology."
+        image: assets/img/timeline/Iowa_State_University_seal.png
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      - title: "Ph.D. - University of Wisconsin-Madison"
+        year: "2009-2015"
+        desc: "Conducted hypothesis-driven research on transcriptional regulatory networks in a human fungal pathogen by integrating wet- and dry-lab approaches."
+        image: assets/img/timeline/uw-crest-color-web-digital_resized.png
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
+      - title: "Postdoctoral Scholar - Vanderbilt University"
+        year: "2015-2022"
+        desc: "Contributed to and directed multi-disciplinary research projects with international teams investigating the evolution of fungi relevant to human health and industrial applications."
+        image: assets/img/timeline/vandy_logo_resized.png
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+      - title: "Ginkgo Bioworks - NGS Bioinformatics and Solutions Delivery"
+        year: "2022-2025"
+        desc: "Designed and executed custom genomics workflows while managing multi-million-dollar R&D and client projects."
+        image: assets/img/timeline/ginkgo_bioworks_logo.jpg
         alt:
-        # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+      - title: "Prairie Helix Consulting"
+        year: "2025-Present"
+        desc: "Founded a bioinformatics consulting practice focused on solving complex biological challenges with tailored computational solutions."
+        image: assets/img/timeline/PraireHelix_logo_resized_red.png
+        alt:      
+    end: "Let's Decode Biology Together"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "About Me"
+    text: "Science. Strategy. Solutions."
+    body: "I’m a Ph.D.-trained bioinformatician specializing in genomics and computational analysis of next-generation sequencing data, particularly from fungal and other non-model systems. My work transforms raw data into actionable insights through Python- and R-based workflows, enabling collaborators and clients to solve complex biological problems."
     section: about
 
   clients:
@@ -93,9 +96,9 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "Your Bioinformatics Partner"
+    text: "Independent. Experienced. Results-driven."
+    subtext: As an independent consultant, I work directly with clients to design and implement bioinformatics solutions tailored to their specific challenges. You get hands-on expertise, clear communication, and end-to-end project ownership.
     section: team
     people:
       - name: "Kay Garland"

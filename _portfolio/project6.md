@@ -1,18 +1,18 @@
 ---
 title: Evolution of Pathogenic Fungi 
-subtitle: Linked comparative genomics with experimental insights to reveal fungal evolutionary dynamics.   
+subtitle: Linked comparative genomics with experimental insights to reveal pathogen evolutionary dynamics.   
 image: assets/img/portfolio/msphere.00018-19-f0004.jpeg
 alt: 
 
 caption:
   title: Evolution of Pathogenic Fungi
-  subtitle: Linked comparative genomics with experimental insights to reveal fungal evolutionary dynamics. 
+  subtitle: Linked comparative genomics with experimental insights to reveal pathogen evolutionary dynamics. 
   thumbnail: assets/img/portfolio/msphere.00018-19-f0004.jpeg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Led cross-functional research on the evolution of pathogenic fungi, integrating comparative genomics with experimental and metabolic data from international collaborators. Identified and prioritized candidate genes and pathways, guiding downstream experimental design and analysis. Synthesized diverse datasets into clear, actionable insights, delivering publications, presentations, and successful grant proposals.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Functional Genomics
+- Date: November 2015 - March 2022
+- Client: Academic Research Consortium
+- Category: Research & Project Leadership
 
