@@ -104,7 +104,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact"
-    text: "Please use the form below to share your project goals. <br> If the form is unavailable, you can reach me directly at mead [dot] bioinformatics [at] gmail.com."
+    text: "Please use the form below to share your project goals. <br> You can also reach me directly at mead [dot] bioinformatics [at] gmail.com."
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
