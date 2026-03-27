@@ -15,11 +15,11 @@ en: &DEFAULT_EN
       section: services
     - title: "Selected Work"
       section: portfolio
-    - title: "About"
+    - title: "Product"
       section: about
-    - title: "Timeline"
+    - title: "Story"
       section: timeline
-    - title: "Team"
+    - title: "About"
       section: team
     - title: "Contact"
       section: contact

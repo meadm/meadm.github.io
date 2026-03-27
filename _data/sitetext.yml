@@ -22,14 +22,14 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Multi-omics Analysis"
-        desc: "Genome Assembly/Annotation, Transcriptomics, Variant Analysis"
+        desc: "Customized workflows for integrating transcriptomic, genomic, and proteomic datasets. Specializing in de novo assembly and differential expression analysis for complex biological systems."
         icon: fas fa-dna #find more at https://fontawesome.com/icons
       - title: "Pipeline Development"
-        desc: "Python and Nextflow"
-        icon: fas fa-arrow-right
-      - title: "Research Consulting and Strategy"
-        desc: "Experimental design, data management, market strategy, and more"
-        icon: fas fa-question
+        desc: "Building robust, scalable, and reproducible computational pipelines. Transitioning manual 'one-off' scripts into automated workflows optimized for high-performance computing (HPC) or cloud environments."
+        icon: fas fa-project-diagram
+      - title: "Data & Research Strategy"
+        desc: "Bridging biological hypotheses and technical execution. Expertise in experimental design, data landscaping, and technical reviews to guide R&D investment."
+        icon: fas fa-lightbulb
 
   portfolio:
     title: "Selected Work"
@@ -38,7 +38,7 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
+    title: "The Story"
     text: "Building expertise and delivering results across academia and industry"
     section: timeline
     # left is the default
@@ -69,72 +69,42 @@ en: &DEFAULT_EN
         desc: "Founded a bioinformatics consulting practice focused on solving complex biological challenges with tailored computational solutions."
         image: assets/img/timeline/PraireHelix_logo_resized_red.png
         alt:      
-    end: "Let's Decode Biology Together"
+    end: "Partnering <br> to Unlock <br> Biology"
 
   about:
-    title: "About Me"
-    text: "Science. Strategy. Solutions."
-    body: "I’m a Ph.D.-trained bioinformatician specializing in genomics and computational analysis of next-generation sequencing data, particularly from fungal and other non-model systems. My work transforms raw data into actionable insights through Python- and R-based workflows, enabling collaborators and clients to solve complex biological problems."
+    title: "The Product"
+    text: "Science. Data. Solutions."
+    body: "I provide an integrated bioinformatics engine for your research. As an independent lead, I deliver the direct technical oversight and biological intuition necessary to transform raw data into reproducible, high-impact results. This approach ensures your R&D goals stay on track and on budget. For direct inquiries, you can reach me via the Contact form below or at mead[dot]bioinformatics[at]gmail.com"
     section: about
 
   clients:
     section: clients
+    title: "lorem epsum"
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+      - title: ""
 
   team:
-    title: "Your Bioinformatics Partner"
-    text: "Independent. Experienced. Results-driven."
-    subtext: As an independent consultant, I work directly with clients to design and implement bioinformatics solutions tailored to their specific challenges. You get hands-on expertise, clear communication, and end-to-end project ownership.
+    title: "About Me"
+    text: "From Research to Results"
+    subtext: I’m a Ph.D.-trained bioinformatician specializing in genomics and computational analysis of next-generation sequencing data, particularly from fungal and other non-model systems. My career has focused on building custom Python and R workflows that transform raw datasets into the actionable insights my collaborators and clients need to tackle some of the most challenging problems in biology.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Matt Mead"
+        role: "Founder and Lead Bioinformatician"
+        image: assets/img/team/Matt Mead_2022-12.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/matt-mead-253b609b/
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://github.com/meadm
+            icon: fab fa-github
+          - url: https://scholar.google.com/citations?user=iM5iuGoAAAAJ&hl=en
+            icon: fas fa-graduation-cap
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Contact"
+    text: "Connect with me via the form below. <br> You can also reach me on LinkedIn or via email at mead [dot] bioinformatics [at] gmail.com."
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -150,16 +120,12 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+      - url: https://www.linkedin.com/in/matt-mead-253b609b/
+        icon: fab fa-linkedin-in
+      - url: https://github.com/meadm
+        icon: fab fa-github
+      - url: https://scholar.google.com/citations?user=iM5iuGoAAAAJ&hl=en
+        icon: fas fa-graduation-cap
 en-US:
   <<: *DEFAULT_EN
 en-CA:
