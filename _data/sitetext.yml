@@ -13,19 +13,19 @@ en: &DEFAULT_EN
   header:
     title: A collaborative partner for
     text: Turning biological data into insights
-    button: Learn More
+    button: Explore Services
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Need something different? Let’s talk."
+    text: "Science. Data. Solutions."
     section: services
     list:
       - title: "Multi-omics Analysis"
         desc: "Customized workflows for integrating transcriptomic, genomic, and proteomic datasets. Specializing in de novo assembly and differential expression analysis for complex biological systems."
         icon: fas fa-dna #find more at https://fontawesome.com/icons
       - title: "Pipeline Development"
-        desc: "Building robust, scalable, and reproducible computational pipelines. Transitioning manual 'one-off' scripts into automated workflows optimized for high-performance computing (HPC) or cloud environments."
+        desc: "Building robust, scalable, and reproducible computational pipelines. Transitioning manual scripts into automated workflows optimized for HPC or cloud environments."
         icon: fas fa-project-diagram
       - title: "Data & Research Strategy"
         desc: "Bridging biological hypotheses and technical execution. Expertise in experimental design, data landscaping, and technical reviews to guide R&D investment."
@@ -33,13 +33,13 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Selected Work"
-    text: "Examples of tools, analyses, and projects that reflect how I approach real-world bioinformatics challenges."
+    text: "Examples of tools and analyses that reflect my approach to real-world bioinformatics challenges."
     section: "portfolio"
     closebutton: "Close Project"
 
   timeline:
     title: "The Story"
-    text: "Building expertise and delivering results across academia and industry"
+    text: "From Research to Industry"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -73,7 +73,7 @@ en: &DEFAULT_EN
 
   about:
     title: "The Product"
-    text: "Science. Data. Solutions."
+    text: "Technical Execution & Strategic Oversight"
     body: "I provide an integrated bioinformatics engine for your research. As an independent lead, I deliver the direct technical oversight and biological intuition necessary to transform raw data into reproducible, high-impact results. This approach ensures your R&D goals stay on track and on budget. For direct inquiries, you can reach me via the Contact form below or at mead[dot]bioinformatics[at]gmail.com"
     section: about
 
@@ -87,8 +87,8 @@ en: &DEFAULT_EN
 
   team:
     title: "About Me"
-    text: "From Research to Results"
-    subtext: I’m a Ph.D.-trained bioinformatician specializing in genomics and computational analysis of next-generation sequencing data, particularly from fungal and other non-model systems. My career has focused on building custom Python and R workflows that transform raw datasets into the actionable insights my collaborators and clients need to tackle some of the most challenging problems in biology.
+    text: "Bridging Biology and Bioinformatics to Drive Insight"
+    subtext: I’m a Ph.D.-trained bioinformatician specializing in genomics and computational analysis of next-generation sequencing data, particularly from fungal and other non-model systems. My work transforms raw data into actionable insights through Python and R workflows, enabling clients to tackle some of the most challenging problems in biology.
     section: team
     people:
       - name: "Matt Mead"
@@ -104,7 +104,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact"
-    text: "Connect with me via the form below. <br> You can also reach me on LinkedIn or via email at mead [dot] bioinformatics [at] gmail.com."
+    text: "Please use the form below to share your project goals. <br> If the form is unavailable, you can reach me directly at mead [dot] bioinformatics [at] gmail.com."
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
