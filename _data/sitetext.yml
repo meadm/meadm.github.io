@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: A collaborative partner for
-    text: Turning biological data into insights
+    text: Unlocking insight from biological data
     button: Explore Services
     buttonlink: "#services"
 
@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Multi-omics Analysis"
-        desc: "Customized analyses for integrating transcriptomic, genomic, and proteomic datasets. Specializing in de novo assembly and differential expression analysis for complex biological systems."
+        desc: "Customized analyses for integrating transcriptomic, genomic, and other datasets. Specializing in de novo assembly and differential expression analysis for complex biological systems."
         icon: fas fa-dna #find more at https://fontawesome.com/icons
       - title: "Pipeline Development"
         desc: "Building robust, scalable, and reproducible computational pipelines. Transitioning manual scripts into automated workflows optimized for HPC or cloud environments."
@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Selected Work"
-    text: "Evidence of Insight. Driven by Data."
+    text: "Proven Computational Solutions for Complex Biological Questions"
     section: "portfolio"
     closebutton: "Close Project"
 
@@ -46,27 +46,27 @@ en: &DEFAULT_EN
     events:
       - title: "B.S. - Iowa State University"
         year: "2005-2009"
-        desc: "Undergraduate degree in Biochemistry, Biophysics, and Molecular Biology. Conducted research in natural product biosynthesis and molecular biology."
+        desc: "Conducted foundational research in natural product biosynthesis and molecular biology."
         image: assets/img/timeline/Iowa_State_University_seal.png
         alt:
       - title: "Ph.D. - University of Wisconsin-Madison"
         year: "2009-2015"
-        desc: "Conducted hypothesis-driven research on transcriptional regulatory networks in a human fungal pathogen by integrating wet- and dry-lab approaches."
+        desc: "Integrated experimental and computational approaches to decipher complex transcriptional regulatory networks in fungal pathogens."
         image: assets/img/timeline/uw-crest-color-web-digital_resized.png
         alt:
       - title: "Postdoctoral Scholar - Vanderbilt University"
         year: "2015-2022"
-        desc: "Contributed to and directed multi-disciplinary research projects with international teams investigating the evolution of fungi relevant to human health and industrial applications."
+        desc: "Directed multi-disciplinary research investigating the evolution of fungi relevant to human health and industrial applications."
         image: assets/img/timeline/vandy_logo_resized.png
         alt: image alt text
       - title: "Ginkgo Bioworks - NGS Bioinformatics and Solutions Delivery"
         year: "2022-2025"
-        desc: "Designed and executed custom genomics workflows while managing internal R&D and client projects."
+        desc: "Engineered custom genomics workflows while managing R&D and client projects within the NGS Bioinformatics team and Solutions Delivery Business Unit"
         image: assets/img/timeline/ginkgo_bioworks_logo.jpg
         alt:
       - title: "Prairie Helix Consulting"
         year: "2025-Present"
-        desc: "Founded a bioinformatics consulting practice focused on solving complex biological challenges with tailored computational solutions."
+        desc: "Empowering research teams with specialized genomic analysis and strategic computational support."
         image: assets/img/timeline/PraireHelix_logo_resized_red.png
         alt:      
     end: "Partnering <br> to Unlock <br> Biology"
