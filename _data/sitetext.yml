@@ -51,17 +51,17 @@ en: &DEFAULT_EN
         alt:
       - title: "Ph.D. - University of Wisconsin-Madison"
         year: "2009-2015"
-        desc: "Integrated experimental and computational approaches to decipher complex transcriptional regulatory networks in fungal pathogens."
+        desc: "Integrated wet- and dry-lab approaches to decipher complex transcriptional regulatory networks in fungal pathogens."
         image: assets/img/timeline/uw-crest-color-web-digital_resized.png
         alt:
       - title: "Postdoctoral Scholar - Vanderbilt University"
         year: "2015-2022"
-        desc: "Directed multi-disciplinary research investigating the evolution of fungi relevant to human health and industrial applications."
+        desc: "Directed multi-omic research investigating the evolution of fungi relevant to human health and industrial applications."
         image: assets/img/timeline/vandy_logo_resized.png
         alt: image alt text
       - title: "Ginkgo Bioworks - NGS Bioinformatics and Solutions Delivery"
         year: "2022-2025"
-        desc: "Engineered custom genomics workflows while managing R&D and client projects within the NGS Bioinformatics team and Solutions Delivery Business Unit"
+        desc: "Engineered custom genomics workflows while managing R&D and client projects."
         image: assets/img/timeline/ginkgo_bioworks_logo.jpg
         alt:
       - title: "Prairie Helix Consulting"

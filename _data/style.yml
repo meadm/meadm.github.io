@@ -8,6 +8,6 @@ header-image: "../img/Helix_fungi_highRes_opacity.jpg"
 contact-image: "../img/map-image.png"
 
 # Set custom fonts
-#fonts:
- # - name: "Montserrat"
-  #  for: "script"
+# fonts:
+#   - name: "Droid Serif"
+#     for: "script"
