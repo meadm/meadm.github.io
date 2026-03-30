@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Multi-omics Analysis"
-        desc: "Customized analyses for integrating transcriptomic, genomic, and other datasets. Specializing in de novo assembly and differential expression analysis for complex biological systems."
+        desc: "Customized analyses for integrating transcriptomic, genomic, and other datasets. Specializing in de novo assembly and expression analysis for complex systems."
         icon: fas fa-dna #find more at https://fontawesome.com/icons
       - title: "Pipeline Development"
         desc: "Building robust, scalable, and reproducible computational pipelines. Transitioning manual scripts into automated workflows optimized for HPC or cloud environments."
