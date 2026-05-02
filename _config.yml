@@ -28,7 +28,7 @@ author     : Matt Mead
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: "G-1R4FGJRNRZ" # Google Analytics measurement ID
 
 collections:
   portfolio:
