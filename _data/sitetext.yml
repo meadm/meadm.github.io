@@ -24,8 +24,8 @@ en: &DEFAULT_EN
       - title: "Multi-omics Analysis"
         desc: "Customized analyses for integrating transcriptomic, genomic, and other datasets. Specializing in de novo assembly and expression analysis for complex systems."
         icon: fas fa-dna #find more at https://fontawesome.com/icons
-      - title: "Pipeline Development"
-        desc: "Building robust, scalable, and reproducible computational pipelines. Transitioning manual scripts into automated workflows optimized for HPC or cloud environments."
+      - title: "Pipeline Design & Auditing"
+        desc: Building robust pipelines from scratch and auditing existing code for accuracy. Moving manual scripts into automated workflows optimized for HPC or cloud environments.
         icon: fas fa-project-diagram
       - title: "Data & Research Strategy"
         desc: "Bridging biological hypotheses and technical execution. Expertise in experimental design, data landscaping, and technical reviews to guide R&D investment."
@@ -74,7 +74,7 @@ en: &DEFAULT_EN
   about:
     title: "The Product"
     text: "Technical Execution & Strategic Oversight"
-    body: "I provide an integrated bioinformatics engine for your research. As an independent lead, I deliver the direct technical oversight and biological intuition necessary to transform raw data into reproducible, high-impact results. This approach ensures your R&D goals stay on track and on budget. For direct inquiries, you can reach me via the Contact form below or at <br> mead [dot] bioinformatics [at] gmail.com"
+    body: "I provide an integrated bioinformatics engine for your organization. As an independent lead, I deliver the direct technical oversight and biological intuition necessary to transform raw data into reproducible, high-impact results. This approach ensures your R&D goals stay on track and on budget. For direct inquiries, you can reach me via the Contact form below or at <br> mead [dot] bioinformatics [at] gmail.com"
     section: about
 
   clients:
