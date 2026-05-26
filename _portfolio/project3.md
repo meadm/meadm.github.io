@@ -1,13 +1,13 @@
 ---
 title: Standardizing Data Formats
 subtitle: Streamlined analysis workflows by standardizing genomic data files
-image: assets/img/portfolio/datastandardization.png
+image: assets/img/portfolio/datastandardization.webp
 alt: 
 
 caption:
   title: Standardizing Data Formats
   subtitle: Streamlined analysis workflows by standardizing genomic data files
-  thumbnail: assets/img/portfolio/datastandardization.png
+  thumbnail: assets/img/portfolio/datastandardization.webp
 ---
 Identified inefficiencies caused by inconsistent data formats across workflows and teams. Developed a standardized genomic data format through iterative stakeholder feedback. Partnered with engineers to implement a validation tool that enforced the standard and improved data quality. This resulted in streamlined analyses and reduced downstream errors.
 
