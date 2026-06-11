@@ -74,7 +74,7 @@ en: &DEFAULT_EN
   about:
     title: "The Product"
     text: "Technical Execution & Strategic Oversight"
-    body: "I provide an integrated bioinformatics engine for your organization. As an independent lead, I deliver the direct technical oversight and biological intuition necessary to transform raw data into reproducible, high-impact results. This approach ensures your R&D goals stay on track and on budget. For direct inquiries, you can reach me via the Contact form below or at <br> mead [dot] bioinformatics [at] gmail.com"
+    body: "I provide an integrated bioinformatics engine for your organization. As an independent lead, I deliver the direct technical oversight and biological intuition necessary to transform raw data into reproducible, high-impact results. This approach ensures your R&D goals stay on track and on budget. For direct inquiries, you can reach me via the Contact form below or at <br> matt [at] PrairieHelixBio.com"
     section: about
 
   clients:
